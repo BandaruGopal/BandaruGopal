@@ -1,16 +1,14 @@
-## Hi there 👋
+Bandaru Gopal
 
-<!--
-**BandaruGopal/BandaruGopal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Principal Database Reliability & Cloud Operations Engineer
 
-Here are some ideas to get you started:
+Database and cloud operations professional with 16+ years of experience supporting enterprise database platforms and mission-critical production environments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Expertise
+
+- Databases: Oracle Database, RAC, Exadata, Data Guard, GoldenGate, PostgreSQL, SAP HANA
+- Cloud: Oracle Cloud Infrastructure (OCI), GCP
+- Automation: Terraform, Python, PL/SQL, Shell Scripting, Ansible
+- DevOps: Git, Jenkins, Docker, Kubernetes
+- Monitoring: Grafana, Prometheus, OEM
+- Platforms: Linux, UNIX, Windows Server
