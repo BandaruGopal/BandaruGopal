@@ -1,6 +1,6 @@
 Bandaru Gopal
 
-Principal Database Reliability & Cloud Operations Engineer
+Principal Data system operations developer, saas Cloud Operations Engineer
 
 Database and cloud operations professional with 16+ years of experience supporting enterprise database platforms and mission-critical production environments.
 
